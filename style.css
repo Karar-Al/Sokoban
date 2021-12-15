@@ -1,0 +1,26 @@
+#game td, #controller td {
+  max-width: 4rem;
+  max-height: 4rem;
+  line-height: 0;
+  text-align: center;
+  border: solid;
+}
+
+#controller td button {
+  padding: 0;
+  width: 4rem;
+  height: 4rem;
+  font-size: 2rem;
+}
+
+.center {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+
+td img {
+  width: 4rem;
+  height: 4rem;
+}

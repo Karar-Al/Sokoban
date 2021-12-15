@@ -1,6 +1,6 @@
 # Sokoban
 
-Things to do:
+To do (For you):
 * Keyboard controls!
 
 Original publish:
